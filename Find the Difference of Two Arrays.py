@@ -15,3 +15,4 @@ class Solution:
                 ans.append(each)
         
         return [d.keys(), ans]
+    #return [set(nums1) - set(nums2), set(nums2) - set(nums1)]
